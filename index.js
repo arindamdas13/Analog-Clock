@@ -1,3 +1,4 @@
+/*© 2022. arindamdas13. All Rights Reserved*/
 setInterval(() => {
     d = new Date();
     htime = d.getHours();
