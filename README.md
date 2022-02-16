@@ -1,6 +1,6 @@
 # Analog-Clock
 
-This is a Online Analog Clock. 
+This is a Online Analog Clock.
 This project is hosted in https://arindamdas13.github.io/Analog-Clock/
 
 
